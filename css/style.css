@@ -1,0 +1,38 @@
+/* responsive mobile */
+
+@media (max-width: 576px) {
+  .row-section-1 > .col-md-7 {
+    text-align: center;
+  }
+
+  .row-section-2 {
+    margin: 0;
+  }
+
+  .row-section-2 > .col-12 {
+    text-align: center !important;
+  }
+
+  .btn-primary-sm {
+    background-color: #16A4B0;
+    font-weight: 600;
+  }
+
+  .flex-sm {
+    justify-content: center;
+  }
+
+  .card-bedanya {
+    border-radius: 15px;
+  }
+
+  .card-content-3 {
+    border-radius: 15px;
+  }
+
+  .text-center-sm {
+    text-align: center !important;
+  }
+}
+
+/* responsive mobile END */
